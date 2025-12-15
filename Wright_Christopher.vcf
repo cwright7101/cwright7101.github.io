@@ -3,6 +3,8 @@ VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 26.2//EN
 N:Wright;Christopher;;;
 FN:Christopher Wright
+ORG:GrammaTech
+TITLE:Principal Scientist
 EMAIL;type=INTERNET;type=HOME;type=pref:cwright7101@gmail.com
 EMAIL;type=INTERNET;type=WORK:cwright@grammatech.com
 TEL;type=HOME;type=VOICE;type=pref:832-310-8396
@@ -470,3 +472,4 @@ PHOTO;ENCODING=b;TYPE=JPEG:/9j/4AAQSkZJRgABAQAASABIAAD/4QBMRXhpZgAATU0AKgAA
  cAYCRrwGB2n1NfUsUUcKCKJQiLwABgD6CpK3jRSM3VbOZ8PeD/D3haHydFs0gJzukI3SNkljlz
  z1JOOgzwBXTUUVqQ2FFFFAgooooAKKKKACiiigAooooA//2Q==
 END:VCARD
+
